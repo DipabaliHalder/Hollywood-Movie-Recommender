@@ -1,4 +1,4 @@
 pandas==1.2.5
 pickleshare==0.7.5
 requests==2.25.1
-streamlit==0.83.0
+streamlit==0.84.0
